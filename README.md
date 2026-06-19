@@ -1,5 +1,4 @@
 # DefenceRAG
-# DefenceRAG
 
 ## Overview
 
